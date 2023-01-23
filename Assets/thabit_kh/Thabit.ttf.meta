@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 593bd0a4124c3544ebf9dcbc1c923929
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Thabit
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64c76cdeac48c2746b7dd0bfe722ce52, type: 3}
+  - {fileID: 12800000, guid: c507f975f9000184f93dfc13ce93937c, type: 3}
+  - {fileID: 12800000, guid: 05d44573962fc734884c2c1abceeb72b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
